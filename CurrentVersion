@@ -1,1 +1,4 @@
-2019.1.1
+[NOVAembed Remote Configuration]
+Version=2019.1.1
+SystemRepoServer=93.41.190.216
+BackupSystemRepoServer=93.41.190.216
