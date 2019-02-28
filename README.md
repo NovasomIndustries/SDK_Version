@@ -1,2 +1,2 @@
 # SDK_Version
-Current 2019.1.1
+Current 2019.1
