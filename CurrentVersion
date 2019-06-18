@@ -4,7 +4,7 @@ ToolsVersion=2019.1.009
 SystemRepoServer=93.41.190.216
 BackupSystemRepoServer=93.41.190.216
 [NOVAembed 2019.7 Remote Configuration]
-Version=2019.7.01rc10
+Version=2019.7.01rc11
 ToolsVersion=2019.7.001rc6
 SystemRepoServer=93.41.190.216
 BackupSystemRepoServer=93.41.190.216
