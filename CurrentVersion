@@ -11,9 +11,9 @@ rcToolsVersion=rc0
 SystemRepoServer=89.35.124.45
 BackupSystemRepoServer=93.41.190.216
 [NOVAembed 2020.09 Remote Configuration]
-Version=2020.09.02
+Version=2020.09.01
 rcVersion=rc0
-ToolsVersion=2020.09.01
+ToolsVersion=2020.09.02
 rcToolsVersion=rc0
 SystemRepoServer=89.35.124.45
 BackupSystemRepoServer=93.41.190.216
